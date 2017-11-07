@@ -15,4 +15,4 @@ lib*.pc
 CMakeLists.txt.user
 /VersionInfo*.cmake
 Testing
-rsync_to_node19.sh
+rsync.sh
