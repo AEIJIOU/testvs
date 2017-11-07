@@ -15,4 +15,5 @@ lib*.pc
 CMakeLists.txt.user
 /VersionInfo*.cmake
 Testing
-
+rsync.ps
+rsync.sh
