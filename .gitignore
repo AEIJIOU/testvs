@@ -16,4 +16,3 @@ CMakeLists.txt.user
 /VersionInfo*.cmake
 Testing
 rsync.sh
-okok
